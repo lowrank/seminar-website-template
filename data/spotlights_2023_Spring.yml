@@ -1,0 +1,91 @@
+spotlights:
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "DohyunKwon-2023-Spring"
+    title: "Dohyun Kwon"
+    content: |
+      Level-set forced mean curvature flow with the Neumann boundary condition
+    abstract: In this talk, we consider a level-set forced mean curvature flow with the homogeneous Neumann boundary condition. The well-posedness and the comparison principle for the flow are well-established in the theory of viscosity solutions. Our goal is to go beyond the well-posedness theory and understand the large-time behavior of the solution. We first show that the solution is Lipschitz in time and locally Lipschitz in space. Then, under an additional condition on the forcing term, we prove that the solution is globally Lipschitz. Using this, we obtain the large-time behavior of the solution in this setting. Examples demonstrating the sharpness of the additional condition will be provided.
+    image: "images/DohyunKwon.jpg"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "AlejandroAceves-2023-Spring"
+    title: "Alejandro Aceves"
+    content: |
+      On the Fractional nonlinear Schrödinger Equation
+    abstract: The concept of the fractional Laplacian as it relates to Levi flights in comparison to Brownian motion appears in many applications in physics. In this talk we will present our work as it relates to optical physics, in particular in the nonlinear regime.
+    image: "images/AlejandroAceves.jpg"
+
+
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "YangYang-2023-Spring"
+    title: "Yang Yang"
+    content: |
+      Acoustic Source and Sound Speed Imaging with Application to Photoacoustic Tomography: A Numerical Study
+    abstract: We present numerical algorithms to image passive acoustic sources (resp. sound speed) in the absence of sound speed (resp. source) information. The measurement is the boundary wave field and its spatial derivatives. The algorithms are validated with numerical examples. An application scenario is Photoacoustic Tomography, a multi-wave imaging modality where acoustic sources in unknown biological tissue are to be imaged. The presentation is based on joint work with G. Huang, J. Qian, S. Qin, R. Wang.
+    image: "images/YangYang.jpg"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "ChristophFischbacher-2023-Spring"
+    title: "Christoph Fischbacher"
+    content: |
+      Bounds on the Entanglement entropy of droplet states in the XXZ model
+    abstract: In this talk, I will give an overview over recent results on the entanglement entropy of the one-dimensional Heisenberg XXZ model. For the spin-1/2 case, Beaud and Warzel showed that generic low-energy states satisfy a logarithmically corrected area law. I will talk about the extension of this result to higher-energy states (joint work with H. Abdul-Rahman and G. Stolz) and about a logarithmic lower bound (joint work with R. Schulte).
+    image: "images/ChristophFischbacher.jpg"
+
+
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "IvanYotov-2023-Spring"
+    title: "Ivan Yotov"
+    content: |
+      Mixed finite element methods for the Stokes-Biot model
+    abstract: The Stokes-Biot model describes the interaction between a free fluid and a fluid in a poroelastic material. The two regions are coupled via suitable interface conditions, including balance of forces, continuity of normal velocity, and no-slip or slip with friction tangential velocity condition. We develop a fully mixed formulation for the Stokes-Biot model. It is based on weakly symmetric deviatoric stress, velocity, and vorticity for Stokes, weakly symmetric stress, displacement, and rotation for elasticity, and mixed velocity and pressure for Darcy flow. This formulation exhibits multiple advantages, including local conservation of mass for the Darcy fluid, local poroelastic and Stokes momentum conservation, accurate approximations with continuous normal components for the Darcy velocity, the poroelastic stress, and the free fluid stress, locking-free behavior, and robustness with respect to the physical parameters. Well posedness of the variational formulation and its mixed finite element approximation is established. Stability and error analysis is performed for the numerical method. Furthermore, we employ a multipoint stress mixed finite element method for the discretization of the Stokes and elasticity equations, as well as a multipoint flux mixed finite element method for the Darcy flow. The method allows for local elimination of the stresses, Darcy velocity, vorticity, and rotation, resulting in a symmetric and positive definite cell centered system involving only the Stokes velocity, displacement, and Darcy pressure. Numerical results are presented to illustrate the performance of the method, including its flexibility and robustness for several geoscience applications.
+    image: "images/IvanYotov.jpg"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "ErikHiltunen-2023-Spring"
+    title: "Erik Hiltunen"
+    content: |
+      Scattering phenomena and spectral convergence of subwavelength resonators
+    abstract: We study wave propagation inside metamaterials consisting of high-contrast subwavelength resonators. In the subwavelength limit, resonant states are described by the eigenstates of the generalized capacitance matrix, which describes a long-range, fully-coupled resonator model. We achieve this by re-framing the Helmholtz equation as a non-linear eigenvalue problem in terms of integral operators. In this setting, we survey a range of subwavelength resonance phenomena such as Anderson localization, topologically protected edge modes, exceptional points, and Fano resonance. Additionally, we discuss the spectral convergence of finite structures. As the size of the structure increases, we show that defect modes induced by compact perturbations converge to localized modes of the infinite structure. Using Toeplitz eigenvalue distribution results, we additionally demonstrate the distributional convergence of the density of states as the size of the structure increases.
+    image: "images/ErikHiltunen.jpg"
+
+
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "AmnonJMeir-2023-Spring"
+    title: "Amnon J Meir"
+    content: |
+      On the Equations of Electroporoelasticity
+    abstract: Complex physical phenomena and systems frequently involve multiple components, complex physics or multi-physics, as well as complex or coupled domains and multiple scales. Such phenomena are usually modeled by systems of coupled partial differential equations, often nonlinear. One such phenomenon is electroporoelasticity. After introducing the equations of electroporoelasticity (the equations of poroelasticity coupled to Maxwell's equations) which have applications in geoscience, hydrology, and petroleum exploration, as well as various areas of science and technology, I will describe some recent results (well posedness), the numerical analysis of a finite-element based method for approximating solutions, and some interesting challenges.
+    image: "images/AmnonJMeir.jpg"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "EvdokiyaKostadinova-2023-Spring"
+    title: "Evdokiya Kostadinova"
+    content: |
+      Fractional Laplacian Spectral Approach (FLS) to anomalous diffusion of energetic particles in magnetized plasma
+    abstract: Fractional-power operators have received much attention due to their wide application in modeling anomalous diffusion. For the fractional Laplacian $(-\Delta)^s$, values $s \in (0,1)$ correspond to a superdiffusive process, while $s \in (1,2)$ defines the subdiffusion regime. Physically, subdiffusion can be thought of as superposition of classical diffusion and a small superdiffusive part. Such a process results in overall trapping of the particle ensemble, while also allowing for nonlocal jumps. It can also be shown that for $s \in (3/2, 2)$, the transport process is bounded leading to probability distribution functions with truncated tails. We also argue that in the superdiffuive regime, for $ s \in (2/3,1)$, particles exhibit nonlocal jumps, but transport is described by a true Lévy process only for values $s \in (0,2/3)$. Thus, we expect that there are at least four regimes of anomalous diffusion strong trapping, trapping with nonlocal jumps, nonlocal jumps without trapping, and Lévy flights. To investigate the proposed sub-regimes of anomalous diffusion, we use a Fractional Laplacian Spectral (FLS) method, where the existence of extended states (interpreted as probability for transport) is determined from the existence of a continuous part in the spectrum of a Hamiltonian. Here we are interested in a Hamiltonian with a fractional Laplacian term and a stochastic disorder term. The range of nonlocal interactions and the amount of stochasticity for the Hamiltonian are informed from experiments where energetic electrons (EEs) were detected in the presence of magnetic islands and stochastic magnetic fields. The spectral properties of each Hamiltonian are investigated for fractions representative of each diffusion regime. Comparison of these calculations to experimental data reveals the presence of at least two types of EEs runaway electrons, best described by a Lévy process, and suprathermal, but non-relativistic, electrons, best described by trapping with nonlocal jumps. Work supported by DE-FC02-04ER54698, DE-FG02-05ER54809, and DE-SC0023061.
+    image: "images/EvdokiyaKostadinova.jpg"
+
+
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "PengChen-2023-Spring"
+    title: "Peng Chen"
+    content: |
+      Scalable Bayesian optimal experimental design for efficient data acquisition
+    abstract: Bayesian optimal experimental design (OED) is a principled framework for maximizing information gained from limited data in Bayesian inverse problems. Unfortunately, conventional methods for OED are prohibitive when applied to expensive models with high-dimensional parameters. In this talk, I will present fast and scalable computational methods for large-scale Bayesian OED with infinite-dimensional parameters, including data-informed low-rank approximation, efficient offline-online decomposition, projected neural network approximation, and a new swapping greedy algorithm for combinatorial optimization.
+    image: "images/PengChen.jpg"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "YiranWang-2023-Spring"
+    title: "Yiran Wang"
+    content: |
+      Analysis and reduction of metal artifacts in X-ray tomography
+    abstract: Due to beam-hardening effects, metal objects in X-ray CT often produce streaking artifacts which cause degradation in image reconstruction. It is known from the work of Seo et al in 2017 that the nature of the phenomena is nonlinear. An outstanding inverse problem is to identify the nonlinearity which is crucial for reduction of the artifacts. In this talk, we show how to use microlocal techniques to analyze the artifacts and extract information of the nonlinearity. In particular, we discuss the interesting connection between the artifact generation and geometry of metal objects.
+    image: "images/YiranWang.jpg"
+
+
