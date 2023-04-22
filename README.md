@@ -26,3 +26,7 @@ A Template for Seminar Website
   ```
   python seminar_import.py <YEAR> <SEMESTER> <GOOGLE_SHARED_SHEET_URL>
   ```
+
+## FAQ
+- What is the format of the google sheet?
+- see https://docs.google.com/spreadsheets/d/1cFzxm3_-cEb2RLEbAkrJbO6QnqXs0OXK/edit#gid=520275382
