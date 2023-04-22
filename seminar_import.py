@@ -3,14 +3,16 @@ import pandas as pd
 import sys
 import datetime 
 
+# edit these for your own use.
+
+org = "Phuong Hoang"
+org_url="http://webhome.auburn.edu/~tzh0059/"
+org_email="tzh0059@auburn.edu"
+
 def extract_data(url):
     url_for_pandas = url.replace("/edit?usp=sharing", "/export?format=xlsx")
     df = pd.read_excel(url_for_pandas)
     return df
-
-# url = "https://docs.google.com/spreadsheets/d/1cFzxm3_-cEb2RLEbAkrJbO6QnqXs0OXK/edit?usp=sharing&ouid=113340153287953812217&rtpof=true&sd=true"
-# url_for_pandas = url.replace("/edit?usp=sharing", "/export?format=xlsx")
-# df = pd.read_excel(url_for_pandas)
 
 if __name__ == "__main__":
     if len(sys.argv) <= 3:
@@ -27,7 +29,7 @@ if __name__ == "__main__":
     spotlights_yml = open("data/spotlights_"+ str(sys.argv[1]) + "_" + str(sys.argv[2]) + ".yml", "w")
 
     
-    items_yml.write("title : \"Schedule\"\nid: \"schedule-"+str(sys.argv[1])+"-"+str(sys.argv[2])+"\"\ncontent: |\n "+str(sys.argv[2])+" "+str(sys.argv[1])+"\nstyle: \"style2 medium onscroll-fade-in\"\nitems:\n") 
+    items_yml.write("title : \"Schedule "  +str(sys.argv[1])+" "+str(sys.argv[2]) + "\"\nid: \"schedule-"+str(sys.argv[1])+"-"+str(sys.argv[2])+"\"\ncontent: |\n "+"<b>For any questions or requests, please contact <a href="+str(org_url)+">"+str(org)+"</a>" + "(" + str(org_email) + ") </b>" + "\nstyle: \"style2 medium onscroll-fade-in\"\nitems:\n") 
 
     spotlights_yml.write("spotlights:\n")
 
