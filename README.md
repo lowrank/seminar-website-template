@@ -29,4 +29,4 @@ A Template for Seminar Website
 
 ## FAQ
 - What is the format of the google sheet?
-- see https://docs.google.com/spreadsheets/d/1cFzxm3_-cEb2RLEbAkrJbO6QnqXs0OXK/edit#gid=520275382
+- see https://docs.google.com/spreadsheets/d/1cFzxm3_-cEb2RLEbAkrJbO6QnqXs0OXK/edit?usp=sharing&ouid=113340153287953812217&rtpof=true&sd=true
