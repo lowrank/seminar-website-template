@@ -40,6 +40,7 @@ if __name__ == "__main__":
         time_loc = row['Time and Location']
         title    = row['Title']
         abstract = row['Abstract']
+        image_url = row['Image URL']    
 
         # convert date string 
         date = datetime.datetime.strptime(str(date), '%Y-%m-%d %H:%M:%S').strftime('%b %d')
@@ -64,7 +65,7 @@ if __name__ == "__main__":
         spotlights_yml.write("    title: " + "\"" + str(name) + "\"\n")
         spotlights_yml.write("    content: |\n" + "      " + str(title) + "\n")
         spotlights_yml.write("    abstract: " + str(abstract) + "\n")
-        spotlights_yml.write("    image: " + "\"images/" + name.replace(" ", "") + ".jpg" + "\"\n\n\n")
+        spotlights_yml.write("    image: \"" + str(image_url) + "\"\n\n\n")
     
     items_yml.close()
     spotlights_yml.close()

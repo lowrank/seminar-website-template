@@ -1,7 +1,7 @@
-title : "Schedule 2023 Spring"
+title : "Schedule"
 id: "schedule-2023-Spring"
 content: |
- <b>For any questions or requests, please contact <a href="https://webhome.auburn.edu/~tzh0059">Phuong Hoang</a> (tzh0059@auburn.edu)</b>
+ Spring 2023
 style: "style2 medium onscroll-fade-in"
 items:
  - name: "Dohyun Kwon"
@@ -91,7 +91,7 @@ items:
    link: "#PengChen-2023-Spring"
    content: 'Scalable Bayesian optimal experimental design for efficient data acquisition'
    abstract: Bayesian optimal experimental design (OED) is a principled framework for maximizing information gained from limited data in Bayesian inverse problems. Unfortunately, conventional methods for OED are prohibitive when applied to expensive models with high-dimensional parameters. In this talk, I will present fast and scalable computational methods for large-scale Bayesian OED with infinite-dimensional parameters, including data-informed low-rank approximation, efficient offline-online decomposition, projected neural network approximation, and a new swapping greedy algorithm for combinatorial optimization.
-   style: "solid style2 major fa-desktop"
+   style: "solid style2 major fa-people-line"
 
 
  - name: "Yiran Wang"
