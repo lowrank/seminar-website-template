@@ -1,0 +1,82 @@
+spotlights:
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "CaoKhaDoan-2023-Fall"
+    title: "Cao Kha Doan"
+    content: |
+      Low regularity integrators for the classical and conservative Allen-Cahn equations with maximum bound principles
+    abstract: This talk is concerned with conditionally structure-preserving, low regularity time integration methods for both classical and conservative Allen–Cahn equations. Important properties of such equations include the maximum bound principle (MBP) and energy dissipation law. By iteratively using Duhamel’s formula, first- and second-order low regularity integrators (LRIs) are constructed for time discretization. The proposed LRI schemes are proved to preserve the MBP and energy stability, and are shown to conserve mass for the conservative Allen-Cahn equation. Furthermore, their temporal error estimates are also successfully derived under a low regularity requirement that the exact solution is only assumed to be continuous in time. Numerical results show that the proposed LRI schemes are more accurate and have better convergence rates than the exponential time differencing schemes, especially when the interfacial parameter approaches zero.
+    image: "https://www.auburn.edu/cosam/mathseminar/images/doan.jpg"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "YiminZhong-2023-Fall"
+    title: "Yimin Zhong"
+    content: |
+      Implicit boundary integral method for linearized Poisson Boltzmann equation
+    abstract: In this talk, I will give an introduction to the so-called implicit boundary integral method based on the co-area formula and it provides a simple quadrature rule for boundary integral on general surfaces.  Then, I will focus on the application of solving the linearized Poisson Boltzmann equation, which is used to model the electric potential of protein molecules in a solvent. Near the singularity, I will briefly discuss the choices of regularization/correction and illustrate the effect of both cases. In the end, I will show the numerical error estimate based on the harmonic analysis tools. 
+    image: "https://www.auburn.edu/cosam/mathseminar/images/yzhong.jpg"
+
+
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "YumingPaulZhang-2023-Fall"
+    title: "Yuming Paul Zhang"
+    content: |
+      Exploratory HJB Equations and Their Convergence
+    abstract: We study the exploratory Hamilton--Jacobi--Bellman (HJB) equation arising from the entropy-regularized exploratory control problem, which was formulated by Wang, Zariphopoulou and Zhou (J. Mach. Learn. Res., 21, 2020) in the context of reinforcement learning in continuous time and space. We establish the well-posedness and regularity of viscosity solutions to the equation, and derive an explicit rate of convergence as exploration diminishes to zero. If time permitted, I would also discuss the analysis of the policy iteration algorithm used to study the control problem. These are joint works with Xunyu Zhou, Hung Tran and Wenpin Tang.
+    image: "https://www.auburn.edu/cosam/mathseminar/images/pzhang.jpg"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "LuZhang-2023-Fall"
+    title: "Lu Zhang"
+    content: |
+      Coupling physics-deep learning inversion
+    abstract: In recent years, there has been an increasing interest in applying deep learning to geophysical/medical data inversion. However, the direct application of end-to-end data-driven approaches to inversion has quickly shown limitations in practical implementation. Indeed, due to the lack of prior knowledge of the objects of interest, the trained deep-learning neural networks very often have limited generalization. In this talk, we introduce a new methodology of coupling model-based inverse algorithms with deep learning for two typical types of inversion problems. In the first part, we present an offline-online computational strategy of coupling classical least-squares-based computational inversion with modern deep learning-based approaches for full waveform inversion to achieve advantages that can not be achieved with only one of the components. In the second part, we present an integrated data-driven and model-based iterative reconstruction framework for joint inversion problems. The proposed method couples the supplementary data with the partial differential equation model to make the data-driven modelling process consistent with the model-based reconstruction procedure. We also characterize the impact of learning uncertainty on the joint inversion results for one typical inverse problem.
+    image: "https://www.auburn.edu/cosam/mathseminar/images/lu_zhang_rice.jpg"
+
+
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "HabibN.Najm-2023-Fall"
+    title: "Habib N. Najm"
+    content: |
+      TBA
+    abstract: TBA
+    image: "https://www.auburn.edu/cosam/mathseminar/images/habib_najm.jpg"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "NickDexter-2023-Fall"
+    title: "Nick Dexter"
+    content: |
+      TBA
+    abstract: TBA
+    image: "https://www.auburn.edu/cosam/mathseminar/images/nick_dexter_fsu.jpg"
+
+
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "XiaojingYe-2023-Fall"
+    title: "Xiaojing Ye"
+    content: |
+      TBA
+    abstract: TBA
+    image: "https://www.auburn.edu/cosam/mathseminar/images/xiaojing_ye_gsu.jpg"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "RentianHu-2023-Fall"
+    title: "Rentian Hu"
+    content: |
+      TBA
+    abstract: TBA
+    image: "https://www.auburn.edu/cosam/mathseminar/images/rentian_hu_nd.jpeg"
+
+
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "BaoWang-2023-Fall"
+    title: "Bao Wang"
+    content: |
+      TBA
+    abstract: TBA
+    image: "https://www.auburn.edu/cosam/mathseminar/images/bao-wang_utah.jpeg"
+
+

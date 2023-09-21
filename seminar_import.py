@@ -5,9 +5,9 @@ import datetime
 
 # edit these for your own use.
 
-org = "Phuong Hoang"
-org_url="http://webhome.auburn.edu/~tzh0059/"
-org_email="tzh0059@auburn.edu"
+org = "Yimin Zhong"
+org_url="http://webhome.auburn.edu/~yzz0225/"
+org_email="yzz0225@auburn.edu"
 
 def extract_data(url):
     url_for_pandas = url.replace("/edit?usp=sharing", "/export?format=xlsx")
@@ -29,7 +29,7 @@ if __name__ == "__main__":
     spotlights_yml = open("data/spotlights_"+ str(sys.argv[1]) + "_" + str(sys.argv[2]) + ".yml", "w")
 
     
-    items_yml.write("title : \"Schedule "  +str(sys.argv[1])+" "+str(sys.argv[2]) + "\"\nid: \"schedule-"+str(sys.argv[1])+"-"+str(sys.argv[2])+"\"\ncontent: |\n "+"<b>For any questions or requests, please contact <a href="+str(org_url)+">"+str(org)+"</a>" + "(" + str(org_email) + ") </b>" + "\nstyle: \"style2 medium onscroll-fade-in\"\nitems:\n") 
+    items_yml.write("title : \"Schedule "  +str(sys.argv[1])+" "+str(sys.argv[2]) + "\"\nid: \"schedule-"+str(sys.argv[1])+"-"+str(sys.argv[2])+"\"\ncontent: |\n "+"<b>For any questions or requests, please contact <a href="+str(org_url)+"> "+str(org)+" </a>" + " (" + str(org_email) + ") </b>" + "\nstyle: \"style2 medium onscroll-fade-in\"\nitems:\n") 
 
     spotlights_yml.write("spotlights:\n")
 

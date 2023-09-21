@@ -1,0 +1,96 @@
+title : "Schedule 2023 Fall"
+id: "schedule-2023-Fall"
+content: |
+ <b>For any questions or requests, please contact <a href=http://webhome.auburn.edu/~yzz0225/> Yimin Zhong </a> (yzz0225@auburn.edu) </b>
+style: "style2 medium onscroll-fade-in"
+items:
+ - name: "Cao Kha Doan"
+   website: nan
+   school: "Auburn University"
+   date: "Sep 01 at 2:00 pm (Parker 328)"
+   link: "#CaoKhaDoan-2023-Fall"
+   content: 'Low regularity integrators for the classical and conservative Allen-Cahn equations with maximum bound principles'
+   abstract: This talk is concerned with conditionally structure-preserving, low regularity time integration methods for both classical and conservative Allen–Cahn equations. Important properties of such equations include the maximum bound principle (MBP) and energy dissipation law. By iteratively using Duhamel’s formula, first- and second-order low regularity integrators (LRIs) are constructed for time discretization. The proposed LRI schemes are proved to preserve the MBP and energy stability, and are shown to conserve mass for the conservative Allen-Cahn equation. Furthermore, their temporal error estimates are also successfully derived under a low regularity requirement that the exact solution is only assumed to be continuous in time. Numerical results show that the proposed LRI schemes are more accurate and have better convergence rates than the exponential time differencing schemes, especially when the interfacial parameter approaches zero.
+   style: "solid style2 major fa-people-line"
+
+
+ - name: "Yimin Zhong"
+   website: nan
+   school: "Auburn University"
+   date: "Sep 08 at 2:00 pm (Parker 328)"
+   link: "#YiminZhong-2023-Fall"
+   content: 'Implicit boundary integral method for linearized Poisson Boltzmann equation'
+   abstract: In this talk, I will give an introduction to the so-called implicit boundary integral method based on the co-area formula and it provides a simple quadrature rule for boundary integral on general surfaces.  Then, I will focus on the application of solving the linearized Poisson Boltzmann equation, which is used to model the electric potential of protein molecules in a solvent. Near the singularity, I will briefly discuss the choices of regularization/correction and illustrate the effect of both cases. In the end, I will show the numerical error estimate based on the harmonic analysis tools. 
+   style: "solid style2 major fa-people-line"
+
+
+ - name: "Yuming Paul Zhang"
+   website: nan
+   school: "Auburn University"
+   date: "Sep 15 at 2:00 pm (Parker 328)"
+   link: "#YumingPaulZhang-2023-Fall"
+   content: 'Exploratory HJB Equations and Their Convergence'
+   abstract: We study the exploratory Hamilton--Jacobi--Bellman (HJB) equation arising from the entropy-regularized exploratory control problem, which was formulated by Wang, Zariphopoulou and Zhou (J. Mach. Learn. Res., 21, 2020) in the context of reinforcement learning in continuous time and space. We establish the well-posedness and regularity of viscosity solutions to the equation, and derive an explicit rate of convergence as exploration diminishes to zero. If time permitted, I would also discuss the analysis of the policy iteration algorithm used to study the control problem. These are joint works with Xunyu Zhou, Hung Tran and Wenpin Tang.
+   style: "solid style2 major fa-people-line"
+
+
+ - name: "Lu Zhang"
+   website: nan
+   school: "Rice University"
+   date: "Sep 22 at 2:00 pm (Parker 328)"
+   link: "#LuZhang-2023-Fall"
+   content: 'Coupling physics-deep learning inversion'
+   abstract: In recent years, there has been an increasing interest in applying deep learning to geophysical/medical data inversion. However, the direct application of end-to-end data-driven approaches to inversion has quickly shown limitations in practical implementation. Indeed, due to the lack of prior knowledge of the objects of interest, the trained deep-learning neural networks very often have limited generalization. In this talk, we introduce a new methodology of coupling model-based inverse algorithms with deep learning for two typical types of inversion problems. In the first part, we present an offline-online computational strategy of coupling classical least-squares-based computational inversion with modern deep learning-based approaches for full waveform inversion to achieve advantages that can not be achieved with only one of the components. In the second part, we present an integrated data-driven and model-based iterative reconstruction framework for joint inversion problems. The proposed method couples the supplementary data with the partial differential equation model to make the data-driven modelling process consistent with the model-based reconstruction procedure. We also characterize the impact of learning uncertainty on the joint inversion results for one typical inverse problem.
+   style: "solid style2 major fa-people-line"
+
+
+ - name: "Habib N. Najm"
+   website: nan
+   school: "Sandia National Lab"
+   date: "Oct 06 at 11:00 pm (Parker 328)"
+   link: "#HabibN.Najm-2023-Fall"
+   content: 'TBA'
+   abstract: TBA
+   style: "solid style2 major fa-people-line"
+
+
+ - name: "Nick Dexter"
+   website: nan
+   school: "Florida State University"
+   date: "Oct 06 at 2:00 pm (Parker 328)"
+   link: "#NickDexter-2023-Fall"
+   content: 'TBA'
+   abstract: TBA
+   style: "solid style2 major fa-people-line"
+
+
+ - name: "Xiaojing Ye"
+   website: nan
+   school: "Georgia State University"
+   date: "Oct 27 at 2:00 am (Parker 328)"
+   link: "#XiaojingYe-2023-Fall"
+   content: 'TBA'
+   abstract: TBA
+   style: "solid style2 major fa-people-line"
+
+
+ - name: "Rentian Hu"
+   website: nan
+   school: "University of Notre Dame"
+   date: "Nov 03 at 2:00 pm (Parker 328)"
+   link: "#RentianHu-2023-Fall"
+   content: 'TBA'
+   abstract: TBA
+   style: "solid style2 major fa-people-line"
+
+
+ - name: "Bao Wang"
+   website: nan
+   school: "The University of Utah"
+   date: "Nov 10 at 2:00 pm (Zoom)"
+   link: "#BaoWang-2023-Fall"
+   content: 'TBA'
+   abstract: TBA
+   style: "solid style2 major fa-people-line"
+
+
