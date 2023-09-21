@@ -16,8 +16,10 @@ A Template for Seminar Website
   ```
 - copy public to where your website is. 
 
-## Edit the website
+## Update the website
 - Change the ``seminar_import.py``, especially the ``org``, ``org_url`` and ``org_email``. 
+- Change the ``data/banner.yml`` with updated link ``#schedule-YEAR-SEMESTER``, for instance ``#schedule-2023-Fall``.
+- Change the ``layouts/index.html`` with updated ``{{ partial "items" ...}}`` and ``{{ partial "spotlights" ...}}``
 - install necessary packages of python
   ```
   pip install pandas
