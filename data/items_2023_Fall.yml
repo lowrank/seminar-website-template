@@ -49,8 +49,8 @@ items:
    school: "Sandia National Lab"
    date: "Oct 06 at 11:00 pm (Parker 328)"
    link: "#HabibN.Najm-2023-Fall"
-   content: 'TBA'
-   abstract: TBA
+   content: 'Approximate Bayesian Computation for Model Calibration Given Summary Statistics'
+   abstract: It is often the case in Bayesian parameter estimation that one has to contend with summary statistics on functions of the data on model observables, rather than having access to the data itself. For example, one may have access only to marginal moments on some quantity estimated from the data, but not the original data. In this setting, the challenge is to estimate a posterior density on model parameters given constraints on derived quantities. We have used maximum entropy and approximate Bayesian computation methods in this context to sample the joint space of data and parameters, accepting data sets consistent with available statistics, and employing opinion pooling methods to arrive at a pooled posterior on quantities of interest. We have applied this approach in multiple contexts, invoking approximations where necessary to tackle problem complexity. This talk will explore this landscape, and will highlight effective use of this construction in a recent study where we used summary information, in the form of nominal values and error bars, from multiple legacy experimental data sets, to arrive at a posterior on model parameters.
    style: "solid style2 major fa-people-line"
 
 
@@ -59,8 +59,8 @@ items:
    school: "Florida State University"
    date: "Oct 06 at 2:00 pm (Parker 328)"
    link: "#NickDexter-2023-Fall"
-   content: 'TBA'
-   abstract: TBA
+   content: 'Learning High-Dimensional Banach-Valued Functions from Limited Data with Deep Neural Networks'
+   abstract: Reconstructing high-dimensional functions from few samples is important for uncertainty quantification in computational science. Deep learning has achieved impressive results in parameterized PDE problems with solutions in Hilbert or Banach spaces. This work proposes a novel algorithmic approach using DL, compressed sensing, orthogonal polynomials, and finite elements to approximate smooth functions in infinite-dimensional Banach spaces. Theoretical analysis provides explicit guarantees on error and sample complexity, and numerical experiments demonstrate accurate approximations on challenging benchmark problems.
    style: "solid style2 major fa-people-line"
 
 
