@@ -10,7 +10,8 @@ org_url="http://webhome.auburn.edu/~yzz0225/"
 org_email="yzz0225@auburn.edu"
 
 def extract_data(url):
-    url_for_pandas = url.replace("/edit?usp=sharing", "/export?format=xlsx")
+    # truncate google sheet url to get the download link
+    url_for_pandas = url.split("/edit?usp=sharing")[0] + "/export?format=xlsx"
     df = pd.read_excel(url_for_pandas)
     return df
 
