@@ -31,6 +31,6 @@ A Template for Seminar Website
   **Note the url needs to be quoted.**
 ## FAQ
 - What is the format of the google sheet?
-- see https://docs.google.com/spreadsheets/d/1cFzxm3_-cEb2RLEbAkrJbO6QnqXs0OXK/edit?usp=sharing&ouid=113340153287953812217&rtpof=true&sd=true
+  - see https://docs.google.com/spreadsheets/d/1cFzxm3_-cEb2RLEbAkrJbO6QnqXs0OXK/edit?usp=sharing&ouid=113340153287953812217&rtpof=true&sd=true
 - What if the abstract/title contains quotation marks?
-- Please remove the quotation marks or replace with other symbols.
+  - Please remove the quotation marks or replace with other symbols.
