@@ -57,8 +57,8 @@ spotlights:
     id: "XiaojingYe-2023-Fall"
     title: "Xiaojing Ye"
     content: |
-      TBA
-    abstract: TBA
+      Neural control approach to approximate solution operators of evolution PDEs
+    abstract: We introduce a novel computational framework to approximate solution operators of evolution partial differential equations (PDEs). For a given evolution PDE, we parameterize its solution using a nonlinear function, such as a deep neural network. Then the problem of approximating the solution operator can be reformulated as a control problem in the parameter space of the network. From any initial value, this control field can steer the parameter to generate a trajectory such that the corresponding network solves the PDE. This allows for substantially reduced computational cost to solve the evolution PDE with arbitrary initial conditions. We also develop comprehensive error analysis for the proposed method when solving a large class of semilinear parabolic PDEs. Numerical experiments on different high-dimensional evolution PDEs with various initial conditions demonstrate the promising results of the proposed method.
     image: "https://www.auburn.edu/cosam/mathseminar/images/xiaojing_ye_gsu.jpg"
 
 
