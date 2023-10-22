@@ -66,8 +66,8 @@ spotlights:
     id: "RentianHu-2023-Fall"
     title: "Rentian Hu"
     content: |
-      TBA
-    abstract: TBA
+       High order absolutely convergent fast sweeping methods with multi-resolution WENO local solvers for Eikonal and factored Eikonal equations
+    abstract: Motivated by the recent work on absolutely convergent fast sweeping method for steady-state solutions of hyperbolic conservation laws, in this talk we will discuss high order fast sweeping methods with multi-resolution weighted essentially non-oscillatory (WENO) local solvers for solving Eikonal equations, an important class of static Hamilton-Jacobi equations. Based on such kind of multi-resolution WENO local solvers with unequal-sized sub-stencils, iteration residues of the designed high order fast sweeping methods can settle down to round-off errors and achieve the absolute convergence. In order to obtain high order accuracy for problems with singular source-point, we will also discuss the factored Eikonal approach developed in the literature and solve the resulting factored Eikonal equations by the new high order WENO fast sweeping methods. We will show the accuracy, computational efficiency, and advantages of the new high order fast sweeping schemes for solving static Hamilton-Jacobi equations.
     image: "https://www.auburn.edu/cosam/mathseminar/images/rentian_hu_nd.jpeg"
 
 
