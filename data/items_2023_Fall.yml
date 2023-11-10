@@ -89,8 +89,8 @@ items:
    school: "The University of Utah"
    date: "Nov 10 at 2:00 pm (Zoom)"
    link: "#BaoWang-2023-Fall"
-   content: 'TBA'
-   abstract: TBA
+   content: 'Equivariant Generative Models for Molecular Modeling'
+   abstract: Molecular modeling tasks exhibit different symmetries, e.g. roto-translation equivariance and periodicity. A grand challenge in machine learning-assisted molecular modeling – e.g. molecule generation – is to account for different inherent symmetries. In this talk, I will discuss a few issues on building and training stable and expressive equivariant generative models, including normalizing flows and diffusion models, for molecule generations. Furthermore, I will discuss the role of steerable features of different types for equivariant machine learning.
    style: "solid style2 major fa-people-line"
 
 

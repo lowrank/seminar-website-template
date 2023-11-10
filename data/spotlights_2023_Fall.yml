@@ -75,8 +75,8 @@ spotlights:
     id: "BaoWang-2023-Fall"
     title: "Bao Wang"
     content: |
-      TBA
-    abstract: TBA
+      Equivariant Generative Models for Molecular Modeling
+    abstract: Molecular modeling tasks exhibit different symmetries, e.g. roto-translation equivariance and periodicity. A grand challenge in machine learning-assisted molecular modeling – e.g. molecule generation – is to account for different inherent symmetries. In this talk, I will discuss a few issues on building and training stable and expressive equivariant generative models, including normalizing flows and diffusion models, for molecule generations. Furthermore, I will discuss the role of steerable features of different types for equivariant machine learning.
     image: "https://www.auburn.edu/cosam/mathseminar/images/bao-wang_utah.jpeg"
 
 
