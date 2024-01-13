@@ -1,1 +1,55 @@
 spotlights:
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "ZhengSun-2024-Spring"
+    title: "Zheng Sun"
+    content: |
+      On energy laws and stability of Runge-Kutta methods for linear seminegative problems
+    abstract: In scientific and engineering applications, people usually encounter time-dependent systems with a decaying total energy. A natural question to ask is that when using a time integration method to approximate such systems, whether and how the energy-decay law will be preserved at the discrete level. In this talk, we will focus on linear autonomous systems and present a general framework on deriving discrete energy identities for both explicit and implicit Runge-Kutta (RK) method. The established identities provide a precise characterization on energy generation or dissipation in the RK discretization, thereby leading to weak and strong stability criteria of RK methods. Furthermore, we also present a general energy identity for all the diagonal Padé approximations, based on an analytical Cholesky type decomposition of a class of symmetric matrices.
+    image: "https://www.auburn.edu/cosam/mathseminar/images/zheng-sun-ua.jpg"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "KeChen-2024-Spring"
+    title: "Ke Chen"
+    content: |
+      nan
+    abstract: nan
+    image: "https://www.auburn.edu/cosam/mathseminar/images/ke-chn-umd.jpeg"
+
+
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "RebeccaEverett-2024-Spring"
+    title: "Rebecca Everett"
+    content: |
+      nan
+    abstract: nan
+    image: "https://www.auburn.edu/cosam/mathseminar/images/math_rebecca-everett.jpg"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "YeyuZhang-2024-Spring"
+    title: "Yeyu Zhang"
+    content: |
+      nan
+    abstract: nan
+    image: "nan"
+
+
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "VictoriaKala-2024-Spring"
+    title: "Victoria Kala"
+    content: |
+      nan
+    abstract: nan
+    image: "nan"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "YulongLu-2024-Spring"
+    title: "Yulong Lu"
+    content: |
+      nan
+    abstract: nan
+    image: "https://www.auburn.edu/cosam/mathseminar/images/yulong-lu-umn.jpg"
+
+
