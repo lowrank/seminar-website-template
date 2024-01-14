@@ -9,47 +9,56 @@ spotlights:
 
 
   - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "ThiThaoPhuongHoang-2024-Spring"
+    title: "Thi Thao Phuong Hoang"
+    content: |
+      TBA
+    abstract: TBA
+    image: "https://www.auburn.edu/cosam/mathseminar/images/hoang_picture.jpg"
+
+
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
     id: "KeChen-2024-Spring"
     title: "Ke Chen"
     content: |
-      nan
-    abstract: nan
+      TBA
+    abstract: TBA
     image: "https://www.auburn.edu/cosam/mathseminar/images/ke-chn-umd.jpeg"
 
 
-  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
     id: "RebeccaEverett-2024-Spring"
     title: "Rebecca Everett"
     content: |
-      nan
-    abstract: nan
+      TBA
+    abstract: TBA
     image: "https://www.auburn.edu/cosam/mathseminar/images/math_rebecca-everett.jpg"
 
 
-  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
     id: "YeyuZhang-2024-Spring"
     title: "Yeyu Zhang"
     content: |
-      nan
-    abstract: nan
-    image: "nan"
-
-
-  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
-    id: "VictoriaKala-2024-Spring"
-    title: "Victoria Kala"
-    content: |
-      nan
-    abstract: nan
+      TBA
+    abstract: TBA
     image: "nan"
 
 
   - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "VictoriaKala-2024-Spring"
+    title: "Victoria Kala"
+    content: |
+      TBA
+    abstract: TBA
+    image: "https://www.auburn.edu/cosam/mathseminar/images/victoria_kala.jpg"
+
+
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
     id: "YulongLu-2024-Spring"
     title: "Yulong Lu"
     content: |
-      nan
-    abstract: nan
+      TBA
+    abstract: TBA
     image: "https://www.auburn.edu/cosam/mathseminar/images/yulong-lu-umn.jpg"
 
 
