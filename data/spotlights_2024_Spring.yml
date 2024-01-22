@@ -9,6 +9,24 @@ spotlights:
 
 
   - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "ZulaihatHassan-2024-Spring"
+    title: "Zulaihat Hassan"
+    content: |
+      Global existence of classical solutions of chemotaxis systems with logistic source and consumption or linear signal production on \(\mathbb{R}^{n}\)
+    abstract: The current talk is concerned with the global existence of classical solutions for the following three primary chemotaxis systems with a logistic source on \(\mathbb{R}^n\),\[\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr\tau v_t= \Delta v-uv,\quad x\in\mathbb{R}^n,\end{cases}\tag{1}\label{abstract-eq1}\]\[\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr\tau v_t= \Delta v-\lambda v + \mu u,\quad x\in\mathbb{R}^n,\end{cases}\tag{2}\label{abstract-eq2}\]and\[\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr0= \Delta v-\lambda v + \mu u,\quad x\in\mathbb{R}^n,\end{cases}\tag{3}\label{abstract-eq3}\]where \(\chi\) is a nonzero number and \(a,b,\lambda,\mu, \tau\) are positive constants. We provide sufficient conditions for the global existence and boundedness of classical solutions of \(\eqref{abstract-eq1}\), \eqref{abstract-eq2}, and \eqref{abstract-eq3} with nonnegative initial functions in a unified way. It follows that nonnegative classical solutions of \eqref{abstract-eq1}, \eqref{abstract-eq2}, and \eqref{abstract-eq3} exist globally and stay bounded in one- and two-dimensional settings for any chemotaxis sensitivity \(\chi\). Moreover, we show that the methods developed for the study of \eqref{abstract-eq1}-\eqref{abstract-eq3} can be adapted to the bounded domain case without much effort. Several existing results for \eqref{abstract-eq1}, \eqref{abstract-eq2}, and \eqref{abstract-eq3} on bounded domains are then improved.
+    image: "https://www.auburn.edu/cosam/mathseminar/images/hassan.jpg"
+
+
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "RachidiSalako-2024-Spring"
+    title: "Rachidi Salako"
+    content: |
+      TBA
+    abstract: TBA
+    image: "nan"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
     id: "ThiThaoPhuongHoang-2024-Spring"
     title: "Thi Thao Phuong Hoang"
     content: |
@@ -60,5 +78,14 @@ spotlights:
       TBA
     abstract: TBA
     image: "https://www.auburn.edu/cosam/mathseminar/images/yulong-lu-umn.jpg"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "YuanzheXi-2024-Spring"
+    title: "Yuanzhe Xi"
+    content: |
+      TBA
+    abstract: TBA
+    image: "https://www.auburn.edu/cosam/mathseminar/images/yuanzhexi.jpg"
 
 

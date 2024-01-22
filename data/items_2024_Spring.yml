@@ -14,6 +14,26 @@ items:
    style: "solid style2 major fa-people-line"
 
 
+ - name: "Zulaihat Hassan"
+   website: nan
+   school: "Auburn University"
+   date: "Feb 02 at 2:00 pm (Parker 328)"
+   link: "#ZulaihatHassan-2024-Spring"
+   content: 'Global existence of classical solutions of chemotaxis systems with logistic source and consumption or linear signal production on \(\mathbb{R}^{n}\)'
+   abstract: The current talk is concerned with the global existence of classical solutions for the following three primary chemotaxis systems with a logistic source on \(\mathbb{R}^n\),\[\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr\tau v_t= \Delta v-uv,\quad x\in\mathbb{R}^n,\end{cases}\tag{1}\label{abstract-eq1}\]\[\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr\tau v_t= \Delta v-\lambda v + \mu u,\quad x\in\mathbb{R}^n,\end{cases}\tag{2}\label{abstract-eq2}\]and\[\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr0= \Delta v-\lambda v + \mu u,\quad x\in\mathbb{R}^n,\end{cases}\tag{3}\label{abstract-eq3}\]where \(\chi\) is a nonzero number and \(a,b,\lambda,\mu, \tau\) are positive constants. We provide sufficient conditions for the global existence and boundedness of classical solutions of \(\eqref{abstract-eq1}\), \eqref{abstract-eq2}, and \eqref{abstract-eq3} with nonnegative initial functions in a unified way. It follows that nonnegative classical solutions of \eqref{abstract-eq1}, \eqref{abstract-eq2}, and \eqref{abstract-eq3} exist globally and stay bounded in one- and two-dimensional settings for any chemotaxis sensitivity \(\chi\). Moreover, we show that the methods developed for the study of \eqref{abstract-eq1}-\eqref{abstract-eq3} can be adapted to the bounded domain case without much effort. Several existing results for \eqref{abstract-eq1}, \eqref{abstract-eq2}, and \eqref{abstract-eq3} on bounded domains are then improved.
+   style: "solid style2 major fa-people-line"
+
+
+ - name: "Rachidi Salako"
+   website: nan
+   school: "UNLV"
+   date: "Feb 09 at 2:00 pm (Parker 328)"
+   link: "#RachidiSalako-2024-Spring"
+   content: 'TBA'
+   abstract: TBA
+   style: "solid style2 major fa-people-line"
+
+
  - name: "Thi Thao Phuong Hoang"
    website: nan
    school: "Auburn University"
@@ -69,6 +89,16 @@ items:
    school: "UMN"
    date: "Apr 12 at 2:00 pm (Parker 328)"
    link: "#YulongLu-2024-Spring"
+   content: 'TBA'
+   abstract: TBA
+   style: "solid style2 major fa-people-line"
+
+
+ - name: "Yuanzhe Xi"
+   website: nan
+   school: "Emory"
+   date: "Apr 26 at 2:00 pm (Parker 328)"
+   link: "#YuanzheXi-2024-Spring"
    content: 'TBA'
    abstract: TBA
    style: "solid style2 major fa-people-line"
