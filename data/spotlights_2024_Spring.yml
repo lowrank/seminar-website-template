@@ -81,6 +81,15 @@ spotlights:
 
 
   - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+    id: "AkilNarayan-2024-Spring"
+    title: "Akil Narayan"
+    content: |
+      TBA
+    abstract: TBA
+    image: "https://www.auburn.edu/cosam/mathseminar/images/akil-narayan.jpg"
+
+
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
     id: "YuanzheXi-2024-Spring"
     title: "Yuanzhe Xi"
     content: |

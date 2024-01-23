@@ -94,6 +94,16 @@ items:
    style: "solid style2 major fa-people-line"
 
 
+ - name: "Akil Narayan"
+   website: nan
+   school: "The University of Utah"
+   date: "Apr 19 at 2:00 pm (Parker 328)"
+   link: "#AkilNarayan-2024-Spring"
+   content: 'TBA'
+   abstract: TBA
+   style: "solid style2 major fa-people-line"
+
+
  - name: "Yuanzhe Xi"
    website: nan
    school: "Emory"
