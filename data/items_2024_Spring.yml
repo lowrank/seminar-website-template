@@ -34,6 +34,16 @@ items:
    style: "solid style2 major fa-people-line"
 
 
+ - name: "Pengjun Wang"
+   website: nan
+   school: "Auburn University"
+   date: "Feb 23 at 2:00 pm (Parker 328)"
+   link: "#PengjunWang-2024-Spring"
+   content: 'TBA'
+   abstract: TBA
+   style: "solid style2 major fa-people-line"
+
+
  - name: "Thi Thao Phuong Hoang"
    website: nan
    school: "Auburn University"
