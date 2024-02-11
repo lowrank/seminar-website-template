@@ -12,8 +12,8 @@ spotlights:
     id: "ZulaihatHassan-2024-Spring"
     title: "Zulaihat Hassan"
     content: |
-      Global existence of classical solutions of chemotaxis systems with logistic source and consumption or linear signal production on \(\mathbb{R}^{n}\)
-    abstract: The current talk is concerned with the global existence of classical solutions for the following three primary chemotaxis systems with a logistic source on \(\mathbb{R}^n\),\[\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr\tau v_t= \Delta v-uv,\quad x\in\mathbb{R}^n,\end{cases}\tag{1}\label{abstract-eq1}\]\[\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr\tau v_t= \Delta v-\lambda v + \mu u,\quad x\in\mathbb{R}^n,\end{cases}\tag{2}\label{abstract-eq2}\]and\[\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr0= \Delta v-\lambda v + \mu u,\quad x\in\mathbb{R}^n,\end{cases}\tag{3}\label{abstract-eq3}\]where \(\chi\) is a nonzero number and \(a,b,\lambda,\mu, \tau\) are positive constants. We provide sufficient conditions for the global existence and boundedness of classical solutions of \(\eqref{abstract-eq1}\), \eqref{abstract-eq2}, and \eqref{abstract-eq3} with nonnegative initial functions in a unified way. It follows that nonnegative classical solutions of \eqref{abstract-eq1}, \eqref{abstract-eq2}, and \eqref{abstract-eq3} exist globally and stay bounded in one- and two-dimensional settings for any chemotaxis sensitivity \(\chi\). Moreover, we show that the methods developed for the study of \eqref{abstract-eq1}-\eqref{abstract-eq3} can be adapted to the bounded domain case without much effort. Several existing results for \eqref{abstract-eq1}, \eqref{abstract-eq2}, and \eqref{abstract-eq3} on bounded domains are then improved.
+      Global existence and asymptotic behavior of classical solutions of chemotaxis systems with logistic source and consumption on \(\mathbb{R}^{n}\)
+    abstract: The current talk is concerned with the global existence and asymptotic behavior of classical solutions of chemotaxis systems with logistic source and consumption on the whole space \(\mathbb{R}^n\). We will first consider the global existence of positive classical solutions. We then discuss the asymptotic behavior of solutions with strictly positive initials,  and the effect of chemotaxis on the rate of spread of the mobile species when the initial have compact support. This is a joint work with my advisors (Prof.Wenxian Shen) and (Dr.Yuming Paul Zhang).
     image: "https://www.auburn.edu/cosam/mathseminar/images/hassan.jpg"
 
 
@@ -21,7 +21,7 @@ spotlights:
     id: "RachidiSalako-2024-Spring"
     title: "Rachidi Salako"
     content: |
-       Movement versus no movement: When is it good to move?
+      Movement versus no movement: When is it good to move?
     abstract: In a famous paper published in 1998 on the evolution of slow dispersal, Dockery and his collaborators showed that,  when two identical diffusive competing species live together in the same ecological environment and are different in their dispersal rates,  the slower moving species will eventually drive  the faster species to extinction.  In a subsequent work in 2008, Cantrell and his collaborators then asked, would this competitive advantage still be preserved if one of these two species doesn't move?  This talk will focus on providing some satisfactory answer to this question.  In fact, our results   go beyond the simple setting of identical species. Furthermore, we will  also examine the dynamics of the classical solutions of a  consumer-resource system comprising a  non-dispersing single resource species whose density function evolves and is consumed by three competitors adopting three different dispersal mechanisms.   Our results reveal that the existence of a non-sink area is  beneficial to the non-dispersing species.
     image: "nan"
 
