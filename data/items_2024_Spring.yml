@@ -39,8 +39,8 @@ items:
    school: "Auburn University"
    date: "Feb 23 at 2:00 pm (Parker 328)"
    link: "#PengjunWang-2024-Spring"
-   content: 'TBA'
-   abstract: TBA
+   content: 'A pseudo-reversible normalizing flow for stochastic differential equation and uncertainty quantification'
+   abstract: We present a pseudo-reversible normalizing flow method for efficiently generating samples of the state of a stochastic differential equation (SDE) with various initial distributions. Once trained,the normalizing flow model can directly generate samples of the SDE's final state without simulating trajectories. Notably, the model requires only a single training session, after which it can accommodate a range of initial distributions. This feature can provide a significant computational saving in studies of how the final state varies with the initial distribution. Additionally, we introduce a conditional pseudo-reversible normalizing flow for quantifying forward and inverse uncertainty propagation. The convergence analysis in the Kullback–Leibler divergence and numerical experiments will be provided. 
    style: "solid style2 major fa-people-line"
 
 
@@ -49,8 +49,8 @@ items:
    school: "Auburn University"
    date: "Mar 01 at 2:00 pm (Parker 328)"
    link: "#ThiThaoPhuongHoang-2024-Spring"
-   content: 'TBA'
-   abstract: TBA
+   content: 'Space-time mixed finite element method for reduced fracture flow models on nonmatching grids'
+   abstract: We propose a space-time mixed variational formulation of the flow problem in a fractured porous medium, where the fracture is treated as a lower dimensional object embedded in the rock matrix. Different spatial and temporal grids can be used in the subdomains and in the fracture to adapt to the heterogeneity of the problem. To efficiently solve the coupled system between the subdomains and the fracture, substructuring techniques are used to derive a space-time interface problem which is solved iteratively by GMRES. Analysis and numerical results for the proposed methods will be presented. 
    style: "solid style2 major fa-people-line"
 
 
@@ -79,16 +79,6 @@ items:
    school: "UW Madison & SHUFE"
    date: "Mar 29 at 2:00 pm (Parker 328)"
    link: "#YeyuZhang-2024-Spring"
-   content: 'TBA'
-   abstract: TBA
-   style: "solid style2 major fa-people-line"
-
-
- - name: "Victoria Kala"
-   website: nan
-   school: "UCLA"
-   date: "Apr 05 at 2:00 pm (Parker 328)"
-   link: "#VictoriaKala-2024-Spring"
    content: 'TBA'
    abstract: TBA
    style: "solid style2 major fa-people-line"

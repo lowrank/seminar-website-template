@@ -30,17 +30,17 @@ spotlights:
     id: "PengjunWang-2024-Spring"
     title: "Pengjun Wang"
     content: |
-      TBA
-    abstract: TBA
-    image: "nan"
+      A pseudo-reversible normalizing flow for stochastic differential equation and uncertainty quantification
+    abstract: We present a pseudo-reversible normalizing flow method for efficiently generating samples of the state of a stochastic differential equation (SDE) with various initial distributions. Once trained,the normalizing flow model can directly generate samples of the SDE's final state without simulating trajectories. Notably, the model requires only a single training session, after which it can accommodate a range of initial distributions. This feature can provide a significant computational saving in studies of how the final state varies with the initial distribution. Additionally, we introduce a conditional pseudo-reversible normalizing flow for quantifying forward and inverse uncertainty propagation. The convergence analysis in the Kullback–Leibler divergence and numerical experiments will be provided. 
+    image: "https://www.auburn.edu/cosam/mathseminar/images/wang-pengjun.jpg"
 
 
   - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
     id: "ThiThaoPhuongHoang-2024-Spring"
     title: "Thi Thao Phuong Hoang"
     content: |
-      TBA
-    abstract: TBA
+      Space-time mixed finite element method for reduced fracture flow models on nonmatching grids
+    abstract: We propose a space-time mixed variational formulation of the flow problem in a fractured porous medium, where the fracture is treated as a lower dimensional object embedded in the rock matrix. Different spatial and temporal grids can be used in the subdomains and in the fracture to adapt to the heterogeneity of the problem. To efficiently solve the coupled system between the subdomains and the fracture, substructuring techniques are used to derive a space-time interface problem which is solved iteratively by GMRES. Analysis and numerical results for the proposed methods will be presented. 
     image: "https://www.auburn.edu/cosam/mathseminar/images/hoang_picture.jpg"
 
 
@@ -72,15 +72,6 @@ spotlights:
 
 
   - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
-    id: "VictoriaKala-2024-Spring"
-    title: "Victoria Kala"
-    content: |
-      TBA
-    abstract: TBA
-    image: "https://www.auburn.edu/cosam/mathseminar/images/victoria_kala.jpg"
-
-
-  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
     id: "YulongLu-2024-Spring"
     title: "Yulong Lu"
     content: |
@@ -89,7 +80,7 @@ spotlights:
     image: "https://www.auburn.edu/cosam/mathseminar/images/yulong-lu-umn.jpg"
 
 
-  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
     id: "AkilNarayan-2024-Spring"
     title: "Akil Narayan"
     content: |
@@ -98,7 +89,7 @@ spotlights:
     image: "https://www.auburn.edu/cosam/mathseminar/images/akil-narayan.jpg"
 
 
-  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
     id: "YuanzheXi-2024-Spring"
     title: "Yuanzhe Xi"
     content: |
