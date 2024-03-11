@@ -48,8 +48,8 @@ spotlights:
     id: "KeChen-2024-Spring"
     title: "Ke Chen"
     content: |
-      TBA
-    abstract: TBA
+      Towards efficient deep operator learning for forward and inverse PDEs: theory and algorithms
+    abstract: Deep neural networks (DNNs) have been a successful model across diverse machine learning tasks, increasingly capturing the interest for their potential in scientific computing. This talk delves into efficient training for PDE operator learning in both the forward and inverse PDE settings. Firstly, we address the curse of dimensionality in PDE operator learning, demonstrating that certain PDE structures require fewer training samples through an analysis of learning error estimates. Secondly, we introduce an innovative DNN, the pseudo-differential auto-encoder integral network (pd-IAE net), and compare its numerical performance with baseline models on several inverse problems, including optical tomography and inverse scattering.
     image: "https://www.auburn.edu/cosam/mathseminar/images/ke-chn-umd.jpeg"
 
 
@@ -57,8 +57,8 @@ spotlights:
     id: "RebeccaEverett-2024-Spring"
     title: "Rebecca Everett"
     content: |
-      TBA
-    abstract: TBA
+      Population dynamics subject to nitrogen-to-carbon stoichiometric constraints
+    abstract: Ecological processes depend on the flow and balance of essential elements such as carbon, nitrogen, and phosphorus. The balance of these essential elements in ecological interactions is studied in the theory of Ecological Stoichiometry (ES). The integration of ES into population dynamics has provided insights into understanding how stoichiometric constraints affect food webs and nutrient cycles. I will present stoichiometric ordinary differential equation mathematical models that focus on the essential elements of nitrogen and carbon to investigate topics such as disease-ecosystem feedback loops and nitrogen fixation.  
     image: "https://www.auburn.edu/cosam/mathseminar/images/math_rebecca-everett.jpg"
 
 
