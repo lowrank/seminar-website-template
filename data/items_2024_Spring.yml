@@ -84,6 +84,16 @@ items:
    style: "solid style2 major fa-people-line"
 
 
+ - name: "Hongjiang Qian"
+   website: nan
+   school: "Yale University"
+   date: "Apr 05 at 2:00 pm (Parker 328)"
+   link: "#HongjiangQian-2024-Spring"
+   content: 'TBA'
+   abstract: TBA
+   style: "solid style2 major fa-people-line"
+
+
  - name: "Yulong Lu"
    website: nan
    school: "UMN"

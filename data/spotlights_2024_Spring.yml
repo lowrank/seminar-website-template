@@ -72,6 +72,15 @@ spotlights:
 
 
   - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+    id: "HongjiangQian-2024-Spring"
+    title: "Hongjiang Qian"
+    content: |
+      TBA
+    abstract: TBA
+    image: "nan"
+
+
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
     id: "YulongLu-2024-Spring"
     title: "Yulong Lu"
     content: |
@@ -80,7 +89,7 @@ spotlights:
     image: "https://www.auburn.edu/cosam/mathseminar/images/yulong-lu-umn.jpg"
 
 
-  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
     id: "AkilNarayan-2024-Spring"
     title: "Akil Narayan"
     content: |
@@ -89,7 +98,7 @@ spotlights:
     image: "https://www.auburn.edu/cosam/mathseminar/images/akil-narayan.jpg"
 
 
-  - style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+  - style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
     id: "YuanzheXi-2024-Spring"
     title: "Yuanzhe Xi"
     content: |
