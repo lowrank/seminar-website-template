@@ -77,7 +77,7 @@ items:
  - name: "Yeyu Zhang"
    website: nan
    school: "UW Madison & SHUFE"
-   date: "Mar 29 at 2:00 pm (Parker 328)"
+   date: "Mar 29 at Cancelled"
    link: "#YeyuZhang-2024-Spring"
    content: 'Coupling Dynamics in Moist Geophysical Flows: The Impact of Phase Transitions on Energy Transfer and Nonlinear Interaction'
    abstract: The interaction between slow and fast components in geophysical fluid dynamics, especially under the influence of phase changes, poses significant analytical challenges. Our study develops a fast-wave averaging framework for the moist Boussinesq system, expanding past dry dynamics to include phase changes between water vapor and liquid water. We examine whether these phase transitions induce coupling between slow and fast waves or if the slow component evolves independently. Numerical simulations with a range of Froude and Rossby numbers reveal that phase changes may disrupt the proportionality of wave influence on the slow component, evidenced by a nonzero time-averaged wave component due to phase transitions. Furthermore, inverse energy transfer to larger scales is investigated in rotating and stratified flows, including water effects and rapid cloud microphysics. The findings suggest that potential vorticity, phase boundaries, and vertical velocity contribute to the formation of coherent structures in strongly rotated and stratified flows, altering the traditional view of energy cascades in geophysical fluids.
