@@ -89,8 +89,8 @@ items:
    school: "Yale University"
    date: "Apr 05 at 2:00 pm (Parker 328)"
    link: "#HongjiangQian-2024-Spring"
-   content: 'TBA'
-   abstract: TBA
+   content: 'Deep filtering with adaptive learning rates'
+   abstract: Given the state of a system is not completely observable, filtering is concerned with state estimation based on partial observations of the system state. It enjoys many applications in the control of partially observed systems, target tracking, signal processing, statistics, and financial engineering. Devoted to the conditional distribution or density, the celebrated results of the Kushner equation and Duncan-Mortensen-Zakai equation produce nonparametric estimations of the conditional distribution/density. Approximating their solutions will suffer the curse of dimensionality.  In this talk, we first introduce a filtering algorithm termed deep filtering based on the deep learning framework. Then we present our work on deep filtering with adaptive learning rates. Instead of approximating the conditional distribution or density, we focus on state estimation or conditional mean and convert the filtering problem to an optimization problem by finding the optimal weights of a deep neural network (DNN). This solves a long-standing (60-year-old) challenging problem in computational nonlinear filtering and has the potential to overcome the curse of dimensionality. We constructed a stochastic gradient-type procedure to approximate the weight parameters of DNN and developed another recursion to update the learning rate adaptively. We showed the convergence of the continuous time interpolated learning rate process using stochastic averaging and martingale methods and obtained an error bound for parameters of the neural network. Finally, we present two numerical examples to show the efficiency and robustness of our algorithm. This is based on joint work with Prof. George Yin and Prof. Qing Zhang.
    style: "solid style2 major fa-people-line"
 
 
