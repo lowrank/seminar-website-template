@@ -84,8 +84,8 @@ spotlights:
     id: "YulongLu-2024-Spring"
     title: "Yulong Lu"
     content: |
-      TBA
-    abstract: TBA
+      Diffusion Models: Theory and Applications (in PDEs)
+    abstract: Diffusion models, particularly score-based generative models (SGMs), have emerged as powerful tools in diverse machine learning applications, spanning from computer vision to modern language processing. In the first part of this talk, we delve into the generalization theory of SGMs, exploring their capacity for learning high-dimensional distributions. Our analysis show that SGMs achieve a dimension-free generation error bound when applied to a class of sub-Gaussian distributions characterized by certain low-complexity structures.  In the second part of the talk, we consider the application of diffusion models in solving partial differential equations (PDEs). Specifically, we present a physics-guided diffusion model for reconstructing high-fidelity solutions from their low-fidelity counterparts. This application showcases the adaptability of diffusion models and their potential to scientific computation.  
     image: "https://www.auburn.edu/cosam/mathseminar/images/yulong-lu-umn.jpg"
 
 
@@ -93,8 +93,8 @@ spotlights:
     id: "AkilNarayan-2024-Spring"
     title: "Akil Narayan"
     content: |
-      TBA
-    abstract: TBA
+      Model selection, combination, and management: Sowing with exploration and reaping with exploitation
+    abstract: Modern simulation-based scientific models are complex and multi-faceted, involving computationally demanding physics-based modeling and discretization, reliable and robust data assimilation, and an accurate accounting for uncertainty in the face of unknown model parameter values and/or genuine stochasticity. To meet such demands, many simulations of real-world systems often involve combinations of homogenized, microscale, or reduced order model components that target accuracy of specific system subcomponents. To complicate matters, individual subcomponents may have several competing models whose query cost and accuracy payoff for system-wide prediction is opaque. For example, there may be numerous ways to identify macroscopic closure terms that are informed through analysis of a suite of microscale models. We discuss how computational exploration-exploitation meta-algorithms from bandit learning can accomplish model selection and combination for computational budget allocation in scientific computing applications: An exploration phase is devoted to learning about model relationships and interactions, followed by an exploitation phase that uses information learned in exploration to make decisions about optimal model selection and subsequently provides full distributional information of stochastic outputs. This framework leads to flexible procedures, capable of managing disparate models and multi-modal data in adaptive and real-time scenarios. We also show how our exploration-exploitation approach can be used in complementary schemes for multilevel uncertainty quantification that exercise control variates and BLUE estimators. We will identify existing theoretical guarantees for such procedures along with promising and impactful directions for new analysis and algorithm development.
     image: "https://www.auburn.edu/cosam/mathseminar/images/akil-narayan.jpg"
 
 
