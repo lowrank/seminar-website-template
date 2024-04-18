@@ -102,8 +102,8 @@ spotlights:
     id: "YuanzheXi-2024-Spring"
     title: "Yuanzhe Xi"
     content: |
-      TBA
-    abstract: TBA
+      Acceleration methods for scientific and data science applications
+    abstract: There has been a surge of interest in recent years in general-purpose `acceleration' methods that take a sequence of vectors converging to the limit of a fixed point iteration, and produce from it a faster converging sequence. A prototype of these methods that attracted much attention recently is the Anderson Acceleration (AA) procedure. In this talk, we will discuss a new class of nonlinear acceleration algorithms based on extending conjugate residual-type procedures from linear to nonlinear equations. The main algorithm has strong similarities with Anderson acceleration as well as with inexact Newton methods- depending on which variant is implemented. We will demonstrate the efficiency of the proposed method on a variety of problems from simulation experiments to deep learning applications. This is joint work with Yousef Saad, Huan He, Ziyuan Tang and Shifan Zhao.
     image: "https://www.auburn.edu/cosam/mathseminar/images/yuanzhexi.jpg"
 
 
